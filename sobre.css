@@ -32,3 +32,15 @@ figcaption {
 figure img {
     width: 600px;
 }
+
+.matriz-yabiku {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.fotodoyakibu{
+    width: 275px;
+    float: right;
+}
